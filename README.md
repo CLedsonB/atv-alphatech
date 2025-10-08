@@ -31,6 +31,7 @@
 
 
 [Veja o repositorio](https://github.com/CLedsonB/RevistaRokusan)
+![Acesse o Site](https://cledsonb.github.io/RevistaRokusan/)
 
 5 revistas sobre momentos historicos interligadas por Hiper-Link
 
@@ -46,7 +47,8 @@
 ![JS](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-bagde&logo=javascript&logoColor=white)
 
 
-[Veja o repositorio](https://github.com/CLedsonB/RevistaRokusan)
+[Veja o repositorio](https://github.com/CLedsonB/infocompras)
+![Acesse o Site](https://cledsonb.github.io/infocompras/)
 
 Saiba o valor total das suas compras em tempo real !
 
@@ -62,3 +64,23 @@ Saiba o valor total das suas compras em tempo real !
 
 Jogo de terminal feito em Python
 Organize os numeros iguais na mesma linha para ganhar o jogo
+
+---
+
+#### Blog Shades of Blues Scan
+
+
+**Tecnologias Usadas**
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-bagde&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-bagde&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-bagde&logo=javascript&logoColor=white)
+
+
+[Veja o repositorio](https://github.com/CLedsonB/BlogShadesOfBlueScan)
+![Acesse o Site](https://cledsonb.github.io/BlogShadesOfBlueScan/)
+
+Filtre seus mangas a partir da barra de pesquisa e menu lateral
+
+
+> E Isso e tudo pe - pessoal (Gaginho)
