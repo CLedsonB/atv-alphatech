@@ -31,7 +31,7 @@
 
 
 [Veja o repositorio](https://github.com/CLedsonB/RevistaRokusan)
-![Acesse o Site](https://cledsonb.github.io/RevistaRokusan/)
+[Acesse o Site](https://cledsonb.github.io/RevistaRokusan/)
 
 5 revistas sobre momentos historicos interligadas por Hiper-Link
 
@@ -48,7 +48,7 @@
 
 
 [Veja o repositorio](https://github.com/CLedsonB/infocompras)
-![Acesse o Site](https://cledsonb.github.io/infocompras/)
+[Acesse o Site](https://cledsonb.github.io/infocompras/)
 
 Saiba o valor total das suas compras em tempo real !
 
@@ -78,7 +78,7 @@ Organize os numeros iguais na mesma linha para ganhar o jogo
 
 
 [Veja o repositorio](https://github.com/CLedsonB/BlogShadesOfBlueScan)
-![Acesse o Site](https://cledsonb.github.io/BlogShadesOfBlueScan/)
+[Acesse o Site](https://cledsonb.github.io/BlogShadesOfBlueScan/)
 
 Filtre seus mangas a partir da barra de pesquisa e menu lateral
 
